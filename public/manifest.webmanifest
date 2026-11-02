@@ -1,0 +1,15 @@
+{
+  "name":"DUO ARENA - ふたりで勝負しよう",
+  "short_name":"DUO ARENA",
+  "description":"2人専用のリアルタイム対戦ミニゲーム",
+  "start_url":"/",
+  "scope":"/",
+  "display":"standalone",
+  "background_color":"#101025",
+  "theme_color":"#101025",
+  "orientation":"portrait-primary",
+  "icons":[
+    {"src":"/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}

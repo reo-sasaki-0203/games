@@ -1,0 +1,22 @@
+[
+  {"id":"s01","title":"チェリー","artist":"スピッツ","era":"平成","difficulty":"easy","source":"original-demo","text":"春の午後には淡い風が吹いていた。まっすぐな気持ちを言葉にできないまま、懐かしい景色を思い出す。"},
+  {"id":"s02","title":"天体観測","artist":"BUMP OF CHICKEN","era":"平成","difficulty":"easy","source":"original-demo","text":"夜空に輝く点を二人で数える。遠くの星に名前をつけたら、昨日より少しだけ前へ進めそうだ。"},
+  {"id":"s03","title":"ハナミズキ","artist":"一青窈","era":"平成","difficulty":"medium","source":"original-demo","text":"街角の白い花が風に揺れる。その姿を見ながら、遠い場所にいる人の幸せを静かに願っている。"},
+  {"id":"s04","title":"小さな恋のうた","artist":"MONGOL800","era":"平成","difficulty":"easy","source":"original-demo","text":"近くにいるのに伝えられない想い。ほんの短い言葉だけで、ありふれた毎日がまったく違って見える。"},
+  {"id":"s05","title":"奏","artist":"スキマスイッチ","era":"平成","difficulty":"medium","source":"original-demo","text":"駅のホームに別れの時間が近づく。旅立つ人と見送る人の間を、ひとつのやさしい旋律がつないでいる。"},
+  {"id":"s06","title":"Lemon","artist":"米津玄師","era":"平成","difficulty":"easy","source":"original-demo","text":"あの日の記憶が胸に残っている。ふとした瞬間に酸っぱい果実の香りを思い出し、空を見上げる。"},
+  {"id":"s07","title":"Pretender","artist":"Official髭男dism","era":"令和","difficulty":"easy","source":"original-demo","text":"物語の配役が最初から違っていたとしても、今ここにある想いは簡単には消えない。映画の幕がゆっくり下りていく。"},
+  {"id":"s08","title":"マリーゴールド","artist":"あいみょん","era":"平成","difficulty":"easy","source":"original-demo","text":"夏の陽射しの下、橙色の花が並んでいる。あの坂道と麦わら帽子を思い浮かべながら、ゆっくり歩く。"},
+  {"id":"s09","title":"夜に駆ける","artist":"YOASOBI","era":"令和","difficulty":"easy","source":"original-demo","text":"街の灯りが消える頃、誰も知らない物語が動き始める。暗闇の中に細い光を探して走っていく。"},
+  {"id":"s10","title":"ドライフラワー","artist":"優里","era":"令和","difficulty":"easy","source":"original-demo","text":"部屋の隅に飾った花束は少しずつ色を変えた。過ぎた時間は戻らないけれど、香りだけが記憶を呼び起こす。"},
+  {"id":"s11","title":"怪獣の花唄","artist":"Vaundy","era":"令和","difficulty":"medium","source":"original-demo","text":"街に大きな足音が響くような、忘れられない歌が聞こえる。少年の日に叫んだ声をもう一度思い出してみる。"},
+  {"id":"s12","title":"青と夏","artist":"Mrs. GREEN APPLE","era":"平成","difficulty":"easy","source":"original-demo","text":"澄んだ青空と入道雲。蝉が鳴く道を駆け抜けると、たった一度の季節がまぶしく広がっていく。"},
+  {"id":"s13","title":"糸","artist":"中島みゆき","era":"平成","difficulty":"medium","source":"original-demo","text":"一本ずつ細い線が重なって、やがて丈夫な布になっていく。偶然の出会いが誰かの未来を支えている。"},
+  {"id":"s14","title":"上を向いて歩こう","artist":"坂本九","era":"昭和","difficulty":"easy","source":"original-demo","text":"坂道の向こうの空を眺める。足元を見つめる代わりに顔を上げれば、小さな勇気が湧いてくる。"},
+  {"id":"s15","title":"赤いスイートピー","artist":"松田聖子","era":"昭和","difficulty":"medium","source":"original-demo","text":"春の駅に赤い花が咲いていた。初めての旅の切符を握りしめて、胸の高鳴りに気づく。"},
+  {"id":"s16","title":"世界に一つだけの花","artist":"SMAP","era":"平成","difficulty":"easy","source":"original-demo","text":"花壇には色も形も違う花が並ぶ。それぞれの美しさがあり、同じ姿になる必要はないのだと教えてくれる。"},
+  {"id":"s17","title":"群青","artist":"YOASOBI","era":"令和","difficulty":"medium","source":"original-demo","text":"絵の具の青をキャンバスに広げる。うまく描けない日も、自分の好きな色を探し続けることに意味がある。"},
+  {"id":"s18","title":"さよならエレジー","artist":"菅田将暉","era":"平成","difficulty":"hard","source":"original-demo","text":"古いギターの音が夜の路地に響いていた。別れを告げるための旋律が、素直になれない気持ちを包む。"},
+  {"id":"s19","title":"新宝島","artist":"サカナクション","era":"平成","difficulty":"medium","source":"original-demo","text":"未知の島を記した地図を広げる。波を越えて進む船の先には、まだ誰も見たことのない景色がある。"},
+  {"id":"s20","title":"水平線","artist":"back number","era":"令和","difficulty":"medium","source":"original-demo","text":"朝日が海と空の境界を照らしている。遠くまで伸びる一本の線を眺めて、明日のことを考える。"}
+]
